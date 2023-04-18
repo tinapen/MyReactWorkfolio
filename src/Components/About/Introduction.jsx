@@ -32,8 +32,8 @@ export const Introduction = () => {
                   Baliwag Polytechnic College (BTECH)
                 </span>
                 . Then currently an intern at{" "}
-                <span className="different">Teravison Corp.</span> as a Web
-                Developer intern.
+                <span className="different">Teravison Corp.</span> as a{" "}
+                <span className="different">Web Developer intern.</span>
               </h4>
             </div>
           </div>
