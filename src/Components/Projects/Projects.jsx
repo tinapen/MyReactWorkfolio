@@ -1,23 +1,6 @@
 import React from "react";
 import "./Projects.css";
-import { FaReact, FaHardHat } from "react-icons/fa";
-import {
-  SiBlockchaindotcom,
-  SiHtml5,
-  SiMaterialui,
-  SiChai,
-  SiEthereum,
-  SiExpress,
-  SiSocketdotio,
-  SiTailwindcss,
-  SiReactrouter,
-  SiJavascript,
-  SiMongodb,
-  SiNodedotjs
-} from "react-icons/si";
-import { DiCss3 } from "react-icons/di";
-import { VscJson } from "react-icons/vsc";
-import { IoLogoJavascript } from "react-icons/io";
+
 import Cologic from "../../assets/Cologic.png";
 import TravelBlog from "../../assets/TravelBlog.png";
 import Restaurant from "../../assets/Restaurant.png";
@@ -47,7 +30,7 @@ export const Projects = () => {
                     rel="noreferrer"
                   >
                     <span type="button" className="btns onbt onbt">
-                      See this Live
+                      See the demo
                     </span>
                   </a>
                   <a
@@ -81,7 +64,7 @@ export const Projects = () => {
                     rel="noreferrer"
                   >
                     <span type="button" className="btns onbt">
-                      See this Live
+                      See the demo
                     </span>
                   </a>
                   <a
@@ -150,7 +133,7 @@ export const Projects = () => {
                     rel="noreferrer"
                   >
                     <span type="button" className="btns onbt onbt">
-                      See Demo
+                      See the demo
                     </span>
                   </a>
                   <a
