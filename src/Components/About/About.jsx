@@ -18,7 +18,7 @@ export const About = () => {
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-          A Web Developer aspirant aims to be effective on the field of her
+          A web developer aspirant aims to be effective on the field of her
           choice and dreaming of becoming successful on the career path she will
           walk through.
         </p>
