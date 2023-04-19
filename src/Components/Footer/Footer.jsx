@@ -12,7 +12,11 @@ export const Footer = () => {
           <div className="footerBox">
             <h3 className="footer">
               Made with{" "}
-              <span style={{ color: `red`, background: `transparent` }}>❤</span>{" "}
+              <span
+                style={{ color: `--clr-primary`, background: `transparent` }}
+              >
+                ❤
+              </span>{" "}
               By Tinapen
             </h3>
           </div>

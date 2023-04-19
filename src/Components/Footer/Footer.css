@@ -1,9 +1,9 @@
 .footer {
   text-align: center;
-  color: var(--clr-primary);
+  color: var(--clr-fg-alt);
 }
 
-.footerBox{
+.footerBox {
   /* border: 3px solid var(--clr-primary); */
   width: 50%;
   margin: auto;
@@ -22,7 +22,7 @@
 } */
 
 @media (max-width: 600px) {
-  .footerBox{
+  .footerBox {
     /* border: 3px solid var(--clr-primary); */
     width: 100%;
     border-radius: 0px;
