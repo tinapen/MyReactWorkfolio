@@ -95,7 +95,7 @@ export const Projects = () => {
                 <div></div>
                 <div>
                   <a
-                    href="https://tinapen.github.io/PizzaRestaurant/"
+                    href="https://pizza-resto.vercel.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
