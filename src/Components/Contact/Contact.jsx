@@ -42,16 +42,7 @@ export const Contact = () => {
               <CgMail className="email" />
             </a>
           </div>
-          <div className="mailNumber" data-aos="fade-right">
-            <div>
-              <span>
-                <CgMail className="email" />
-              </span>
-              <span>
-                <p>cristinapenaflor20@gmail.com</p>
-              </span>
-            </div>
-          </div>
+          <div className="mailNumber" data-aos="fade-right"></div>
         </div>
       </div>
     </>

@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/my-work-portfolio/static/css/main.66c53f95.chunk.css",
-    "main.js": "/my-work-portfolio/static/js/main.66aaf0df.chunk.js",
-    "main.js.map": "/my-work-portfolio/static/js/main.66aaf0df.chunk.js.map",
-    "runtime-main.js": "/my-work-portfolio/static/js/runtime-main.15733ae0.js",
-    "runtime-main.js.map": "/my-work-portfolio/static/js/runtime-main.15733ae0.js.map",
-    "static/css/2.95d02a1e.chunk.css": "/my-work-portfolio/static/css/2.95d02a1e.chunk.css",
-    "static/js/2.9ada34ce.chunk.js": "/my-work-portfolio/static/js/2.9ada34ce.chunk.js",
-    "static/js/2.9ada34ce.chunk.js.map": "/my-work-portfolio/static/js/2.9ada34ce.chunk.js.map",
-    "index.html": "/my-work-portfolio/index.html",
-    "static/css/2.95d02a1e.chunk.css.map": "/my-work-portfolio/static/css/2.95d02a1e.chunk.css.map",
-    "static/css/main.66c53f95.chunk.css.map": "/my-work-portfolio/static/css/main.66c53f95.chunk.css.map",
-    "static/js/2.9ada34ce.chunk.js.LICENSE.txt": "/my-work-portfolio/static/js/2.9ada34ce.chunk.js.LICENSE.txt",
-    "static/media/Cologic.04def31e.png": "/my-work-portfolio/static/media/Cologic.04def31e.png",
-    "static/media/PizzaResto.a6b63273.png": "/my-work-portfolio/static/media/PizzaResto.a6b63273.png",
-    "static/media/Restaurant.40ed5668.png": "/my-work-portfolio/static/media/Restaurant.40ed5668.png",
-    "static/media/TravelBlog.709d9756.png": "/my-work-portfolio/static/media/TravelBlog.709d9756.png",
-    "static/media/portfolio-pic.ead50a0b.jpg": "/my-work-portfolio/static/media/portfolio-pic.ead50a0b.jpg"
+    "main.css": "/MyReactWorkfolio/static/css/main.66c53f95.chunk.css",
+    "main.js": "/MyReactWorkfolio/static/js/main.ee2290cd.chunk.js",
+    "main.js.map": "/MyReactWorkfolio/static/js/main.ee2290cd.chunk.js.map",
+    "runtime-main.js": "/MyReactWorkfolio/static/js/runtime-main.aec958a4.js",
+    "runtime-main.js.map": "/MyReactWorkfolio/static/js/runtime-main.aec958a4.js.map",
+    "static/css/2.95d02a1e.chunk.css": "/MyReactWorkfolio/static/css/2.95d02a1e.chunk.css",
+    "static/js/2.9ada34ce.chunk.js": "/MyReactWorkfolio/static/js/2.9ada34ce.chunk.js",
+    "static/js/2.9ada34ce.chunk.js.map": "/MyReactWorkfolio/static/js/2.9ada34ce.chunk.js.map",
+    "index.html": "/MyReactWorkfolio/index.html",
+    "static/css/2.95d02a1e.chunk.css.map": "/MyReactWorkfolio/static/css/2.95d02a1e.chunk.css.map",
+    "static/css/main.66c53f95.chunk.css.map": "/MyReactWorkfolio/static/css/main.66c53f95.chunk.css.map",
+    "static/js/2.9ada34ce.chunk.js.LICENSE.txt": "/MyReactWorkfolio/static/js/2.9ada34ce.chunk.js.LICENSE.txt",
+    "static/media/Cologic.04def31e.png": "/MyReactWorkfolio/static/media/Cologic.04def31e.png",
+    "static/media/PizzaResto.a6b63273.png": "/MyReactWorkfolio/static/media/PizzaResto.a6b63273.png",
+    "static/media/Restaurant.40ed5668.png": "/MyReactWorkfolio/static/media/Restaurant.40ed5668.png",
+    "static/media/TravelBlog.709d9756.png": "/MyReactWorkfolio/static/media/TravelBlog.709d9756.png",
+    "static/media/portfolio-pic.ead50a0b.jpg": "/MyReactWorkfolio/static/media/portfolio-pic.ead50a0b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.15733ae0.js",
+    "static/js/runtime-main.aec958a4.js",
     "static/css/2.95d02a1e.chunk.css",
     "static/js/2.9ada34ce.chunk.js",
     "static/css/main.66c53f95.chunk.css",
-    "static/js/main.66aaf0df.chunk.js"
+    "static/js/main.ee2290cd.chunk.js"
   ]
 }
